@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/92758590/197105296-8674418b-e2b0-4b0e-
 
 # Pyfiles
 
-This folder contains all python files. Use beautifulSoup4 to crawl the strategy information of the corresponding game
+This folder contains all python files. Use **beautifulSoup4** to crawl the strategy information of the corresponding game
 
 # ASSETS
 
