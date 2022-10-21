@@ -25,7 +25,7 @@ For detailed explanation on how things work, checkout [Nuxt.js docs](https://nux
 
 # Demo
 
-https://user-images.githubusercontent.com/92758590/197105173-5ad734ff-35df-4f5d-ba6b-c52467263bee.mp4
+https://user-images.githubusercontent.com/92758590/197105296-8674418b-e2b0-4b0e-9fad-656567db575d.mp4
 
 # Pyfiles
 
