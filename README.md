@@ -37,6 +37,21 @@ This directory contains your un-compiled assets such as LESS, SASS, or JavaScrip
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#webpacked).
 
+# LAYOUTS
+
+**This directory is not required, you can delete it if you don't want to use it.**
+
+This directory contains your Application Layouts.
+
+More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/views#layouts).
+
+# PAGES
+
+This directory contains your Application Views and Routes.
+The framework reads all the `*.vue` files inside this directory and creates the router of your application.
+
+More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/routing).
+
 # MIDDLEWARE
 
 **This directory is not required, you can delete it if you don't want to use it.**
@@ -45,3 +60,19 @@ This directory contains your application middleware.
 Middleware let you define custom functions that can be run before rendering either a page or a group of pages.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/routing#middleware).
+
+# PLUGINS
+
+**This directory is not required, you can delete it if you don't want to use it.**
+
+This directory contains Javascript plugins that you want to run before mounting the root Vue.js application.
+
+More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/plugins).
+
+# COMPONENTS
+
+**This directory is not required, you can delete it if you don't want to use it.**
+
+The components directory contains your Vue.js Components.
+
+_Nuxt.js doesn't supercharge these components._
