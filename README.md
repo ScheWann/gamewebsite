@@ -24,9 +24,11 @@ $ npm run generate
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
 
 # Demo
-<img alt="" src="./static/game_demo.mov">
+
+https://user-images.githubusercontent.com/92758590/197105173-5ad734ff-35df-4f5d-ba6b-c52467263bee.mp4
 
 # Pyfiles
+
 This folder contains all python files. Use beautifulSoup4 to crawl the strategy information of the corresponding game
 
 # ASSETS
